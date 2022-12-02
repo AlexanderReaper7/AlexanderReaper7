@@ -1,5 +1,4 @@
 ## Things I´m currently working on:
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AlexanderReaper7&repo=hangman&theme=midnight-purple)](https://github.com/AlexanderReaper7/hangman)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AlexanderReaper7&repo=advent-of-code-rs&theme=midnight-purple)](https://github.com/AlexanderReaper7/advent-of-code-rs)
 ---
 ## Some stats:
